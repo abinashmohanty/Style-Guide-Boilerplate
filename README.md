@@ -53,6 +53,8 @@ For example, if you want to create doc for `markup/patterns/breadcrumbs.html`, c
 
 Also, to edit the content under `Getting Started`, `Colors`, and `Fonts` you have to open `index.php` and make required changes as per your style guide. For instance, if you would like to add the color swatches form your website, go the `line number 63` where it says `<!-- Manually add your UI colors here. -->` and update these colors swatches/names accordingly.
 
+![Use Index.php to Update top 3 sections](https://github.com/abinashmohanty/Style-Guide-Boilerplate/blob/master/images/customize_under_index_php.png)
+
 You should now be able to see the new doc at `yoursite.com/style-guide/`
 
 ## Running the app
